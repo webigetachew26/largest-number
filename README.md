@@ -1,8 +1,4 @@
-# largest-number
-# Largest Number in Array 
- 
-## Student Information - **Name**: Your Name - **Student ID**: Your Student ID - **Course**: Your Course Name 
- 
+# largest-number in array 
 ## Algorithm 
 1. Initialize a variable `largest` with the first element of the 
 array. 
